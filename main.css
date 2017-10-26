@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background: url(assets/freedom.jpg) no-repeat center;
+  width:100vw;
+  height:100vh;
+}
+.quote {
+  text-align: center;
+  text-transform: uppercase;
+  font-size:2.4rem;
+  font-family: georgia sans-serif;
+}
+div {
+  margin:6rem 4rem;;
+}
+.name {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Aguafina Script';
+  font-weight: 600;
+}
